@@ -7,7 +7,7 @@ Vritra Networks is the name of [my](https://rakhesh.com) future IT Consultancy f
 I've always felt that coming up with a name that gelled with me was the first step towards setting up my own firm, but for a long time I couldn't come up with anything. Then one day sometime in April or May 2020 this name popped into my head and luckily the domain names etc. were available so I started using it everywhere. 
 
 # What about the name?
-The name "Vritra Networks" is a twist on the name of the network monitoring company [ThousandEyes](https://www.thousandeyes.com/). Non-Indians may not be aware of it but the name Thousand Eyes is a reference to the King of Gods Indra. I am not sure if the founders of ThousandEyes had this in mind, but considering they are Indians I'd say it's a safe bet. It's a cool name in that it has a mythological reference and also a technical one in terms of what their product does.
+The name "Vritra Networks" is a twist on the name of the network monitoring company [ThousandEyes](https://www.thousandeyes.com/). Non-Indians may not be aware of it but the name Thousand Eyes is a reference to Indra, the King of Gods. I am not sure if the founders of ThousandEyes had this in mind, but considering they are Indians I'd say it's a safe bet to think so. It's a cool name in that it has a mythological reference and also technically relevant in terms of what their product does.
 
 # Who is Indra?
 Indra is the King of Gods in Hindu mythology. 

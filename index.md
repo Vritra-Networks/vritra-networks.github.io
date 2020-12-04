@@ -1,6 +1,6 @@
 # Welcome!
 
-<img src=https://github.com/Vritra-Networks/vritra-networks.github.io/raw/master/logo.png width="100" height="100">
+![logo](https://github.com/Vritra-Networks/vritra-networks.github.io/raw/master/logo.png)
 
 Vritra Networks is the name of [my](https://rakhesh.com) future IT Consultancy firm. It doesn't currently exist but some day it might.
 

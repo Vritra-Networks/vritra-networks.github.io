@@ -2,12 +2,12 @@
 
 Vritra Networks is the name of [my](https://rakhesh.com) future IT Consultancy firm. It doesn't currently exist but some day it might.
 
-I've always felt that coming up with a name that gelled with me was the first step towards this, but for a long time I couldn't come up with any. Then one day sometime in April or May 2020 this name popped into my head and luckily the domain names etc. were available so I started using it everywhere. 
+I've always felt that coming up with a name that gelled with me was the first step towards setting up my own firm, but for a long time I couldn't come up with anything. Then one day sometime in April or May 2020 this name popped into my head and luckily the domain names etc. were available so I started using it everywhere. 
 
-## What about the name?
+# What about the name?
 The name "Vritra Networks" is a pun on the name of the network monitoring company [ThousandEyes](https://www.thousandeyes.com/). Non-Indians may not be aware of it but the name Thousand Eyes is a reference to the King of Gods Indra. I am not sure if the founders of ThousandEyes had this in mind, but considering they are Indians I'd say it's a safe bet. It's a cool name in that it has a mythological reference and also a technical one in terms of what their product does.
 
-## Who Indra?
+# Who is Indra?
 Indra is the King of Gods in Hindu mythology. 
 
 Legend has it that Indra, who was a bit of a ladies-man as most Kingly Gods seem to be (example: Zeus), took fancy to the beautiful Ahalya who was the wife of Sage Gautam. She didn’t give in to him, so as the Gods are won’t to do (example: Zeus!) he shape-shifted to appear as Sage Gautam and when the real Sage Gautam was out of the house Indra appeared in his form and made love to Ahalya. During the course of their love-making she realised something was not right but didn’t do much about it (am not sure what she could have done anyways based on a hunch). 
@@ -18,7 +18,7 @@ Ashamed of this Indra went into hiding and that put matters in heaven into turmo
 
 As an aside, Sage Gautam also cursed his wife Ahalya and turned her into a stone. Her curse was finally lifted by Lord Rama, but that's another story...
 
-## Who Vritra?
+# Who is Vritra?
 Vritra was Indra's arch-nemesis. 
 
 One of the cool stories about Indra that I read when I was a kid and stuck on with me was the story of how he got his weapon the "Vajrayudha" ("Vajra" means diamond, "Ayduha" means weapon; so the weapon is supposed to be as indestructable as a diamond). 
@@ -29,4 +29,5 @@ For reasons I don't remember some Sage created an Asura called Vritra to destroy
 
 I find this story fascinating. Moreover I also find Asuras fascinating, because all my childhood I was under the impression Asuras were Demons and it was only later when I started reading about mythology and symbolism etc. that I realized this is not the case. In a way Asuras are thus quite misunderstood and this appeals to me. They are not bad, just different. (Interestingly Hindu mythology makes this quite clear. Most Asuras were killed by someone like Lord Vishnu with his discus and that's actually considered good luck because when you are killed by Lord Vishnu or the like you escape the cycle of rebirth and finally attain heaven; thus while it may appear that Asuras are bad and cause havoc they actually have a good ending).
 
-Anyways, there you have it. ThousandEyes is a reference to Indra, which I inverted to get to Vritra and decided to name my yet to be created company Vritra Networks. Welcome to it! Hope you enjoyed these stories. :)
+# That's all folks!
+Anyways, there you have it. ThousandEyes is a reference to Indra, which I inverted to get to Vritra and decided to name my yet to be created company "Vritra Networks". Some day there'll be a real company with this name. Meanwhile I hope you enjoyed these stories!

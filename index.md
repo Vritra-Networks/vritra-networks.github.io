@@ -12,7 +12,7 @@ The name "Vritra Networks" is a pun on the name of the network monitoring compan
 # Who is Indra?
 Indra is the King of Gods in Hindu mythology. 
 
-Legend has it that Indra, who was a bit of a ladies-man as most Kingly Gods seem to be (example: Zeus), took fancy to the beautiful Ahalya who was the wife of Sage Gautam. She didn’t give in to him, so as the Gods are won’t to do (example: Zeus!) he shape-shifted to appear as Sage Gautam and when the real Sage Gautam was out of the house Indra appeared in his form and made love to Ahalya. During the course of their love-making she realised something was not right but didn’t do much about it (am not sure what she could have done anyways based on a hunch). 
+Legend has it that Indra, who was a bit of a ladies-man as most King of Gods seem to be (example: Zeus), took fancy to the beautiful Ahalya who was the wife of Sage Gautam. She didn’t give in to him, so as the Gods are won’t to do (example: Zeus!) he shape-shifted to appear as Sage Gautam and when the real Sage Gautam was out of the house Indra appeared in his form and made love to Ahalya. During the course of their love-making she realised something was not right but didn’t do much about it (am not sure what she could have done anyways based on a hunch). 
 
 Meanwhile the real Sage Gautam returned home unexpectedly to find his wife in bed with an imposter. Seeing him Ahalya realised what had happened, and Indra was caught red-handed. The angry Sage then cursed Indra for his obsession with women to have a 1000 vaginas all over his body (yikes!). 
 

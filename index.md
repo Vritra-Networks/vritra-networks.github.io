@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Vritra-Networks/vritra-networks.github.io/raw/master/logo.png" alt="[v]n logo" width="100" align="left"/>
 
-Vritra Networks is the name of [my](https://rakhesh.com) future IT Consultancy firm. It doesn't currently exist but some day it might.
+Vritra Networks is the name of [my](https://rakhesh.com) future IT Consultancy firm. It doesn't exist currently but some day it might.
 
 I've always felt that coming up with a name that gelled with me was the first step towards setting up my own firm, but for a long time I couldn't come up with anything. Then one day sometime in April or May 2020 this name popped into my head and luckily the domain names etc. were available so I started using it everywhere. 
 

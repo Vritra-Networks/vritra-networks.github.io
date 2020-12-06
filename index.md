@@ -33,3 +33,8 @@ I find this story fascinating. Moreover I also find Asuras fascinating, because 
 
 # That's all folks!
 Anyways, there you have it. ThousandEyes is a reference to Indra, which I inverted to get to Vritra and decided to name my yet to be created company "Vritra Networks". Some day there'll be a real company with this name. Meanwhile I hope you enjoyed these stories!
+
+# One more thing
+Oh wait, you may ask. Isn't the name you have thus chosen somewhat evil? I mean Vritra is an Asura and Asuras are sort of like Demons but not really... so do you want such evil conotations associated to your company name? 
+
+Good question! And that's actually another association I was aiming for. You see I have a strong fascination for the BSDs and the logos of the various BSD projects (primarily FreeBSD who still has it) is actually a Demon. They chose this as a play on the word "Daemons" which is what you call long running background services on these OSes. So the name Vritra is also a nod to my love for the BSDs and Unix-y ideas. 
